@@ -1,2 +1,1 @@
-#Hello Readme
-^^Important^^
+This file is mandatory in project
